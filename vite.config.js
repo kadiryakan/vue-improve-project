@@ -9,7 +9,6 @@ import { proxyRefs } from "vue";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), vueDevTools(), tailwindcss()],
-  base: "vue-improve-project", // BUNU EKLEDİK
   server: {
     port: 3000,
     proxy: {

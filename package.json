@@ -1,6 +1,7 @@
 {
-  "name": "vue-crash-course",
-  "version": "0.0.0",
+  "name": "vue-improve-project",
+  "homepage" : "https://vue-improve-project.kadiryakan.dev/",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "engines": {
